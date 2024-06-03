@@ -23,8 +23,18 @@
       ]
     },
     {
+      "cell_type": "markdown",
+      "source": [
+        "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ユーザー名/リポジトリ名/blob/ブランチ名/ノートブックのパス)\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "QuA-sJn8Xz-k"
+      }
+    },
+    {
       "cell_type": "code",
-      "execution_count": 5,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -143,7 +153,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 6,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -183,7 +193,7 @@
           "base_uri": "https://localhost:8080/"
         }
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -203,7 +213,7 @@
       "metadata": {
         "id": "43kLdaD3NDT5"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -217,7 +227,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 9,
+      "execution_count": null,
       "metadata": {
         "id": "Vm4Atr60E-qh"
       },
@@ -229,7 +239,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 20,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
